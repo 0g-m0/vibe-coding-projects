@@ -1,0 +1,16 @@
+# Build output
+build/
+*.app
+*.o
+*.swiftmodule
+*.swiftdoc
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Xcode (if added later)
+xcuserdata/
+DerivedData/
+*.xcworkspace/contents.xcworkspacedata

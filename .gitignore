@@ -1,0 +1,19 @@
+# Local tool configs
+.claude/
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Build outputs
+build/
+*.app
+*.o
+*.swiftmodule
+*.swiftdoc
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcworkspace/contents.xcworkspacedata
